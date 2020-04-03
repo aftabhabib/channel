@@ -2,7 +2,7 @@
 	"count":"15",
 	"categorys":
 	[
-		{"channel_category":"央视频道","channels":
+		{"channel_category":"Central Video Channel","channels":
 		[
 			{"channel_name":"CCTV-1HD","play_urls":
 			[
@@ -46,7 +46,7 @@
 				"epg":"http://www.tvsou.com/epg/cctv-5?class=yangshi",
 				"icon":"https://github.com/Victor2018/SeagullTv/raw/master/SrceenShot/cctv_5.png"
 			},
-			{"channel_name":"CCTV-5+体育赛事HD","play_urls":
+			{"channel_name":"CCTV-5+Sports events HD","play_urls":
 			[
 				{"play_url":"http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8"},
 				{"play_url":"http://183.207.248.71:80/cntv/live1/CCTV5+/hdcctv05plus"},
@@ -153,9 +153,9 @@
 			}
 		]
 		},
-		{"channel_category":"卫视频道","channels":
+		{"channel_category":"TV video","channels":
 		[
-			{"channel_name":"湖北卫视HD","play_urls":
+			{"channel_name":"Hubei Satellite TV HD","play_urls":
 			[
 				{"play_url":"http://ivi.bupt.edu.cn/hls/hbhd.m3u8"},
 				{"play_url":"http://ivi.bupt.edu.cn/hls/hbtv.m3u8"},
@@ -166,7 +166,7 @@
 				"epg":"http://www.tvsou.com/epg/hubeidianshitai-hbws?class=weishi",
 				"icon":"https://github.com/Victor2018/SeagullTv/raw/master/SrceenShot/hbws.png"
 			},
-			{"channel_name":"湖南卫视HD","play_urls":
+			{"channel_name":"Hunan Satellite TV HD","play_urls":
 			[
 				{"play_url":"http://ivi.bupt.edu.cn/hls/hunanhd.m3u8"},
 				{"play_url":"http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8"},
@@ -179,7 +179,7 @@
 				"epg":"http://www.tvsou.com/epg/hunandianshitai-hnws?class=weishi",
 				"icon":"https://github.com/Victor2018/SeagullTv/raw/master/SrceenShot/hnws.png"
 			},
-			{"channel_name":"北京卫视HD","play_urls":
+			{"channel_name":"Beijing Satellite TV HD","play_urls":
 			[
 				{"play_url":"http://ivi.bupt.edu.cn/hls/btv1hd.m3u8"},
 				{"play_url":"http://ivi.bupt.edu.cn/hls/btv2.m3u8"},
@@ -192,7 +192,7 @@
 				"epg":"http://www.tvsou.com/epg/BTV-1?class=weishi",
 				"icon":"https://github.com/Victor2018/SeagullTv/raw/master/SrceenShot/bjws.png"
 			},
-			{"channel_name":"天津卫视HD","play_urls":
+			{"channel_name":"Tianjin Satellite TV HD","play_urls":
 			[
 				{"play_url":"http://ivi.bupt.edu.cn/hls/tjhd.m3u8"},
 				{"play_url":"http://112.50.243.8/PLTV/88888888/224/3221225830/1.m3u8"},
@@ -669,9 +669,9 @@
 			}
 		]
 		},
-		{"channel_category":"娱乐影视","channels":
+		{"channel_category":"Entertainment Film","channels":
 		[
-			{"channel_name":"CHC高清电影","play_urls":
+			{"channel_name":"CHC HD Movie","play_urls":
 			[
 				{"play_url":"http://ivi.bupt.edu.cn/hls/chchd.m3u8"},
 				{"play_url":"http://ivi.bupt.edu.cn/hls/chchd.m3u8"}
@@ -679,14 +679,14 @@
 				"epg":"",
 				"icon":""
 			},
-			{"channel_name":"精品电影","play_urls":
+			{"channel_name":"Fine movie","play_urls":
 			[
 				{"play_url":"http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8"}
 			],
 				"epg":"",
 				"icon":""
 			},
-			{"channel_name":"天映电影频道","play_urls":
+			{"channel_name":"Tianying Movie Channel","play_urls":
 			[
 				{"play_url":"http://45.126.83.51/qwr9ew/s/s33/index2.m3u8"}
 			],
